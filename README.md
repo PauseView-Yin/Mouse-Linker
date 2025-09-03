@@ -14,6 +14,8 @@
 
 经测试，此程序的CPU占用率约为3%（不同的CPU结果可能有所差异）。
 
+下载所有文件后，找到所需要的语言版本的.exe文件，双击打开即可使用。
+
 感谢您的使用。
 
 ## English explanation
@@ -29,5 +31,7 @@ There are four speeds to choose from:
 The start key is F7 and the end key is F9.
 
 After testing, the CPU usage rate of this program is approximately 3% (the results may vary depending on the CPU).
+
+After downloading all the files, find the desired language version of the.exe file and double-click to open it for use.
 
 Thank you for your use.
