@@ -2,6 +2,8 @@
 
 ## 中文说明
 
+务必使用GBK编码来打开中文文件以及程序！！！
+
 操作界面简洁，无图像、广告的鼠标连点器。
 
 有四种速度可供选择：
@@ -19,6 +21,8 @@
 感谢您的使用。
 
 ## English explanation
+
+Be sure to use GBK encoding to open Chinese files and programs!!!
 
 The operating interface is simple, with no images or advertisements on the mouse connector.
 
