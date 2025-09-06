@@ -22,8 +22,6 @@
 
 ## English explanation
 
-Please look forward to the English version.
-
 Be sure to use GBK encoding to open Chinese files and programs!!!
 
 The operating interface is simple, with no images or advertisements on the mouse connector.
